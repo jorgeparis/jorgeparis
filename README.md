@@ -1,8 +1,4 @@
-### Hi I am Jorge Junior
-<!--
-**jorgeparis/jorgeparis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-I am highly motivated and focused individual, with over three years of experience in the Telecommucations and Broadcast sector. I have proven experience in System Integration, maintenance and technical assistance. I have Strong knowledge of Windows Server, Linux, VoIP and AoIP (Dante). Good documentation skill with Visio, system design and signal flow. always striving to learn new technologies and always willing to contribute at the highest level. 
+😎I am highly motivated and focused individual, with over three years of experience in the Telecommucations and Broadcast sector. I have proven experience in System Integration, maintenance and technical assistance. I have Strong knowledge of Windows Server, Linux, VoIP and AoIP (Dante). Good documentation skill with Visio, system design and signal flow. always striving to learn new technologies and always willing to contribute at the highest level. ✔
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeparis&show_icons=true&theme=radical)
 <div> <a href=https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white/></div>
